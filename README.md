@@ -15,8 +15,9 @@ GNPA: Agriculture component of Gross National Product (adjusted with an index),\
 GNPC: Commerce component of Gross National Product (adjusted with an index),\
 GNP: Grand total for GNP (agriculture, commerce and other components total).
 
-## Aim
+## Report
 Our task is to forecast the sales (for two products) for every quarter of 2007
 by using two methods:\
 Method A: Forecasting with time series analysis,\
-Method B: Forecasting with regression.
+Method B: Forecasting with regression.\
+In the report, the steps of forecasting procedures are detailly described and reported. 
